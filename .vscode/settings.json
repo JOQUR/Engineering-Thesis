@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "stm32g4xx_hal.h": "c",
+        "stm32g4xx_hal.c": "cpp",
+        "zumoapplication.h": "c",
+        "rte_components.h": "c",
+        "stm32g4xx_it.h": "c",
+        "stm32g4xx.h": "c",
+        "stm32g474xx.h": "c"
+    },
+    "C_Cpp.default.compilerPath": "C:\\MinGW\\bin\\gcc.exe",
+    "cmake.sourceDirectory": "C:/Users/PKier/OneDrive/Pulpit/ZUMO_ROBOT/Engineering-Thesis/dev-dir/ZUMO-ROBOT"
+}
