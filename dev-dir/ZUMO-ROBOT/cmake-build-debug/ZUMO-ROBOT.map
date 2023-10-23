@@ -1,0 +1,1650 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (exit)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-init.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (__libc_init_array)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memset.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (memset)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x00000000        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .rodata        0x00000000       0x24 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x00000000       0x7c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.exidx     0x00000000       0x10 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.attributes
+                0x00000000       0x1c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x28 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000       0x60 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .text._exit    0x00000000        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .debug_frame   0x00000000       0x20 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .text          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim.c.obj
+ .debug_info    0x00000000       0x64 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim.c.obj
+ .debug_str     0x00000000      0x20f CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim_ex.c.obj
+ .debug_info    0x00000000       0x64 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim_ex.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim_ex.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim_ex.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim_ex.c.obj
+ .debug_str     0x00000000      0x212 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim_ex.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_uart.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_uart.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_uart.c.obj
+ .debug_info    0x00000000       0x64 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_uart.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_uart.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_uart.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_uart.c.obj
+ .debug_str     0x00000000      0x210 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_uart.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_uart.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_uart.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .text.HAL_RCC_DeInit
+                0x00000000       0xcc CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .text.HAL_RCC_MCOConfig
+                0x00000000       0x5c CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetHCLKFreq
+                0x00000000        0xc CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPCLK1Freq
+                0x00000000       0x24 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPCLK2Freq
+                0x00000000       0x24 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetOscConfig
+                0x00000000       0xf4 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetClockConfig
+                0x00000000       0x3c CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .text.HAL_RCC_EnableCSS
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .text.HAL_RCC_EnableLSECSS
+                0x00000000       0x14 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .text.HAL_RCC_DisableLSECSS
+                0x00000000       0x14 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .text.HAL_RCC_CSSCallback
+                0x00000000        0x2 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .text.HAL_RCC_NMI_IRQHandler
+                0x00000000       0x20 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_PeriphCLKConfig
+                0x00000000      0x378 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKConfig
+                0x00000000       0xd8 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKFreq
+                0x00000000      0x790 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_EnableLSECSS
+                0x00000000       0x14 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_DisableLSECSS
+                0x00000000       0x1c CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_EnableLSECSS_IT
+                0x00000000       0x30 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_LSECSS_Callback
+                0x00000000        0x2 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_LSECSS_IRQHandler
+                0x00000000       0x20 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_EnableLSCO
+                0x00000000       0xa0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_DisableLSCO
+                0x00000000       0x6c CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRSConfig
+                0x00000000       0x4c CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRSSoftwareSynchronizationGenerate
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRSGetSynchronizationInfo
+                0x00000000       0x24 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRSWaitSynchronization
+                0x00000000       0xac CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRS_SyncOkCallback
+                0x00000000        0x2 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRS_SyncWarnCallback
+                0x00000000        0x2 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRS_ExpectedSyncCallback
+                0x00000000        0x2 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRS_ErrorCallback
+                0x00000000        0x2 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRS_IRQHandler
+                0x00000000       0x88 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .debug_info    0x00000000      0xf32 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .debug_abbrev  0x00000000      0x243 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .debug_loc     0x00000000     0x1523 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .debug_aranges
+                0x00000000       0xb0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .debug_ranges  0x00000000       0xb8 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .debug_line    0x00000000     0x131d CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .debug_str     0x00000000      0xac8 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .debug_frame   0x00000000      0x1a0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .text.FLASH_Program_DoubleWord
+                0x00000000       0x20 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .text.FLASH_Program_Fast
+                0x00000000       0x2c CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .text.HAL_FLASH_EndOfOperationCallback
+                0x00000000        0x2 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .text.HAL_FLASH_OperationErrorCallback
+                0x00000000        0x2 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .text.HAL_FLASH_IRQHandler
+                0x00000000      0x128 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .text.HAL_FLASH_Unlock
+                0x00000000       0x30 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .text.HAL_FLASH_Lock
+                0x00000000       0x1c CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Unlock
+                0x00000000       0x34 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Lock
+                0x00000000       0x20 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .text.HAL_FLASH_GetError
+                0x00000000        0xc CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .text.FLASH_WaitForLastOperation
+                0x00000000       0x60 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program
+                0x00000000       0x7c CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program_IT
+                0x00000000       0x84 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Launch
+                0x00000000       0x1c CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .data.pFlash   0x00000000       0x20 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .debug_info    0x00000000      0x93b CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .debug_abbrev  0x00000000      0x301 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .debug_loc     0x00000000      0x5df CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .debug_aranges
+                0x00000000       0x88 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .debug_ranges  0x00000000       0x78 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .debug_line    0x00000000      0x8c1 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .debug_str     0x00000000      0x6da CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .debug_frame   0x00000000      0x138 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.FLASH_MassErase
+                0x00000000       0x4c CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetSecMem
+                0x00000000       0x24 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetBootLock
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetWRP
+                0x00000000       0x64 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetRDP
+                0x00000000       0x18 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetUser
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetPCROP
+                0x00000000      0x130 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_WRPConfig
+                0x00000000       0x60 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_RDPConfig
+                0x00000000       0x34 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_UserConfig
+                0x00000000      0x138 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_PCROPConfig
+                0x00000000      0x178 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_SecMemConfig
+                0x00000000       0x4c CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_BootLockConfig
+                0x00000000       0x34 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBProgram
+                0x00000000       0xc0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBGetConfig
+                0x00000000       0x7a CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_EnableSecMemProtection
+                0x00000000       0x40 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_EnableDebugger
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_DisableDebugger
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.FLASH_PageErase
+                0x00000000       0x5c CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase_IT
+                0x00000000       0xb0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.FLASH_FlushCaches
+                0x00000000       0x64 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase
+                0x00000000       0xf4 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .debug_info    0x00000000      0xd1b CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .debug_abbrev  0x00000000      0x260 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .debug_loc     0x00000000      0xa87 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .debug_aranges
+                0x00000000       0xc8 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .debug_ranges  0x00000000       0xb8 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .debug_line    0x00000000      0xf1e CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .debug_str     0x00000000      0x84a CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .debug_frame   0x00000000      0x1f8 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj
+ .RamFunc       0x00000000      0x1a0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj
+ .debug_info    0x00000000      0x3f7 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj
+ .debug_abbrev  0x00000000      0x184 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj
+ .debug_loc     0x00000000       0xa0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj
+ .debug_aranges
+                0x00000000       0x30 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj
+ .debug_ranges  0x00000000       0x20 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj
+ .debug_line    0x00000000      0x422 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj
+ .debug_str     0x00000000      0x519 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj
+ .debug_frame   0x00000000       0x40 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_Init
+                0x00000000      0x1d4 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_DeInit
+                0x00000000      0x11c CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_ReadPin
+                0x00000000        0xe CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_WritePin
+                0x00000000        0xa CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_TogglePin
+                0x00000000       0x12 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_LockPin
+                0x00000000       0x2e CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_Callback
+                0x00000000        0x2 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_IRQHandler
+                0x00000000       0x1c CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .debug_info    0x00000000      0x85e CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .debug_abbrev  0x00000000      0x1e6 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .debug_loc     0x00000000      0x3b3 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .debug_aranges
+                0x00000000       0x58 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .debug_ranges  0x00000000       0x48 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .debug_line    0x00000000      0x74a CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .debug_str     0x00000000      0x5a3 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .debug_frame   0x00000000       0xd0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_ConfigMuxSync
+                0x00000000       0x56 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_ConfigMuxRequestGenerator
+                0x00000000       0x5e CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_EnableMuxRequestGenerator
+                0x00000000       0x1e CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_DisableMuxRequestGenerator
+                0x00000000       0x1e CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_MUX_IRQHandler
+                0x00000000       0x5a CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .debug_info    0x00000000      0x6be CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .debug_abbrev  0x00000000      0x1e5 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .debug_loc     0x00000000      0x214 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .debug_aranges
+                0x00000000       0x40 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .debug_ranges  0x00000000       0x48 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .debug_line    0x00000000      0x59b CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .debug_str     0x00000000      0x6e1 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .debug_frame   0x00000000       0x8c CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .text.DMA_SetConfig
+                0x00000000       0x42 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .text.DMA_CalcDMAMUXChannelBaseAndMask
+                0x00000000       0x48 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .text.DMA_CalcDMAMUXRequestGenBaseAndMask
+                0x00000000       0x28 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .text.HAL_DMA_Init
+                0x00000000       0xd8 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .text.HAL_DMA_DeInit
+                0x00000000       0xb8 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .text.HAL_DMA_Start
+                0x00000000       0x52 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .text.HAL_DMA_Start_IT
+                0x00000000       0x94 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .text.HAL_DMA_Abort
+                0x00000000       0x6c CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .text.HAL_DMA_Abort_IT
+                0x00000000       0x7e CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .text.HAL_DMA_PollForTransfer
+                0x00000000      0x11c CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .text.HAL_DMA_IRQHandler
+                0x00000000       0xc4 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .text.HAL_DMA_RegisterCallback
+                0x00000000       0x4c CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .text.HAL_DMA_UnRegisterCallback
+                0x00000000       0x5c CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .text.HAL_DMA_GetState
+                0x00000000        0x6 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .text.HAL_DMA_GetError
+                0x00000000        0x4 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .debug_info    0x00000000      0xa4f CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .debug_abbrev  0x00000000      0x216 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .debug_loc     0x00000000      0x8a0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .debug_aranges
+                0x00000000       0x90 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .debug_ranges  0x00000000       0x80 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .debug_line    0x00000000      0xd0c CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .debug_str     0x00000000      0x804 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .debug_frame   0x00000000      0x170 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DeInit
+                0x00000000       0x18 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableBkUpAccess
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableBkUpAccess
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .text.HAL_PWR_ConfigPVD
+                0x00000000       0x84 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnablePVD
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisablePVD
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableWakeUpPin
+                0x00000000       0x20 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableWakeUpPin
+                0x00000000       0x14 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSLEEPMode
+                0x00000000       0x48 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTOPMode
+                0x00000000       0x18 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTANDBYMode
+                0x00000000       0x24 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSleepOnExit
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSleepOnExit
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSEVOnPend
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSEVOnPend
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .text.HAL_PWR_PVDCallback
+                0x00000000        0x2 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .debug_info    0x00000000      0x995 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .debug_abbrev  0x00000000      0x17e CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .debug_loc     0x00000000      0x1b1 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .debug_aranges
+                0x00000000       0x98 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .debug_ranges  0x00000000       0x88 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .debug_line    0x00000000      0x51d CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .debug_str     0x00000000      0x704 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .debug_frame   0x00000000      0x120 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_GetVoltageRange
+                0x00000000       0x24 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableBatteryCharging
+                0x00000000       0x1c CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableBatteryCharging
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableInternalWakeUpLine
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableInternalWakeUpLine
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableGPIOPullUp
+                0x00000000       0xbc CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableGPIOPullUp
+                0x00000000       0x84 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableGPIOPullDown
+                0x00000000       0xbc CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableGPIOPullDown
+                0x00000000       0x88 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnablePullUpPullDownConfig
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisablePullUpPullDownConfig
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableSRAM2ContentRetention
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableSRAM2ContentRetention
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnablePVM1
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisablePVM1
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnablePVM2
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisablePVM2
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnablePVM3
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisablePVM3
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnablePVM4
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisablePVM4
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_ConfigPVM
+                0x00000000      0x1ec CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableLowPowerRunMode
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableLowPowerRunMode
+                0x00000000       0x54 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnterSTOP0Mode
+                0x00000000       0x38 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnterSTOP1Mode
+                0x00000000       0x3c CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnterSHUTDOWNMode
+                0x00000000       0x24 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_PVM1Callback
+                0x00000000        0x2 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_PVM2Callback
+                0x00000000        0x2 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_PVM3Callback
+                0x00000000        0x2 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_PVM4Callback
+                0x00000000        0x2 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_PVD_PVM_IRQHandler
+                0x00000000       0x78 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableUCPDStandbyMode
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableUCPDStandbyMode
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableUCPDDeadBattery
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_EnableIRQ
+                0x00000000       0x1c CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_DisableIRQ
+                0x00000000       0x24 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SystemReset
+                0x00000000       0x24 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriorityGrouping
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriority
+                0x00000000       0x60 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SetPendingIRQ
+                0x00000000       0x1c CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPendingIRQ
+                0x00000000       0x24 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_ClearPendingIRQ
+                0x00000000       0x1c CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetActive
+                0x00000000       0x24 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_CLKSourceConfig
+                0x00000000       0x20 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_Callback
+                0x00000000        0x2 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_IRQHandler
+                0x00000000        0x8 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .text.HAL_MPU_Enable
+                0x00000000       0x18 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .text.HAL_MPU_Disable
+                0x00000000       0x14 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .text.HAL_MPU_ConfigRegion
+                0x00000000       0x60 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_MspInit
+                0x00000000        0x2 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_MspDeInit
+                0x00000000        0x2 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_DeInit
+                0x00000000       0x2c CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_GetTickPrio
+                0x00000000        0xc CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_SetTickFreq
+                0x00000000       0x2c CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_GetTickFreq
+                0x00000000        0xc CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_Delay
+                0x00000000       0x28 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_SuspendTick
+                0x00000000        0xe CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_ResumeTick
+                0x00000000        0xe CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_GetHalVersion
+                0x00000000        0x8 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_GetREVID
+                0x00000000        0xc CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_GetDEVID
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGSleepMode
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGSleepMode
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStopMode
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStopMode
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStandbyMode
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStandbyMode
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_SYSCFG_CCMSRAMErase
+                0x00000000       0x18 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_SYSCFG_EnableMemorySwappingBank
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_SYSCFG_DisableMemorySwappingBank
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_SYSCFG_VREFBUF_VoltageScalingConfig
+                0x00000000       0x14 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_SYSCFG_VREFBUF_HighImpedanceConfig
+                0x00000000       0x14 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_SYSCFG_VREFBUF_TrimmingConfig
+                0x00000000       0x14 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_SYSCFG_EnableVREFBUF
+                0x00000000       0x34 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_SYSCFG_DisableVREFBUF
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_SYSCFG_EnableIOSwitchBooster
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_SYSCFG_DisableIOSwitchBooster
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_SYSCFG_EnableIOSwitchVDD
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_SYSCFG_DisableIOSwitchVDD
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_SYSCFG_CCMSRAM_WriteProtectionEnable
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .text.HAL_EXTI_SetConfigLine
+                0x00000000       0xdc CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetConfigLine
+                0x00000000       0xb8 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearConfigLine
+                0x00000000       0xa0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .text.HAL_EXTI_RegisterCallback
+                0x00000000       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetHandle
+                0x00000000        0xc CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .text.HAL_EXTI_IRQHandler
+                0x00000000       0x2c CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetPending
+                0x00000000       0x20 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearPending
+                0x00000000       0x1c CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .text.HAL_EXTI_GenerateSWI
+                0x00000000       0x1c CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .debug_info    0x00000000      0x776 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .debug_abbrev  0x00000000      0x1b1 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .debug_loc     0x00000000      0xae9 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .debug_aranges
+                0x00000000       0x60 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .debug_ranges  0x00000000       0x50 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .debug_line    0x00000000      0x7ff CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .debug_str     0x00000000      0x494 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .debug_frame   0x00000000       0xf4 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pcd.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pcd.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pcd.c.obj
+ .debug_info    0x00000000       0x64 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pcd.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pcd.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pcd.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pcd.c.obj
+ .debug_str     0x00000000      0x20f CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pcd.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pcd.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pcd.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pcd_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pcd_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pcd_ex.c.obj
+ .debug_info    0x00000000       0x64 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pcd_ex.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pcd_ex.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pcd_ex.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pcd_ex.c.obj
+ .debug_str     0x00000000      0x212 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pcd_ex.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pcd_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pcd_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_ll_usb.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_ll_usb.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_ll_usb.c.obj
+ .debug_info    0x00000000       0x64 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_ll_usb.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_ll_usb.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_ll_usb.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_ll_usb.c.obj
+ .debug_str     0x00000000      0x20e CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_ll_usb.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_ll_usb.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_ll_usb.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/main.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/main.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/main.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_hal_msp.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_hal_msp.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_hal_msp.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_it.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_it.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_it.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/system_stm32g4xx.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/system_stm32g4xx.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/system_stm32g4xx.c.obj
+ .text.SystemCoreClockUpdate
+                0x00000000       0x90 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/system_stm32g4xx.c.obj
+ .rodata.APBPrescTable
+                0x00000000        0x8 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/system_stm32g4xx.c.obj
+ .text          0x00000000       0x14 CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+ .data          0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+ .bss           0x00000000        0x0 CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .rodata        0x00000000       0x24 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .eh_frame      0x00000000        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00020000         xrw
+FLASH            0x08000000         0x00080000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a
+LOAD CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim.c.obj
+LOAD CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim_ex.c.obj
+LOAD CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_uart.c.obj
+LOAD CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+LOAD CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+LOAD CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+LOAD CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+LOAD CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj
+LOAD CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+LOAD CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+LOAD CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+LOAD CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+LOAD CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+LOAD CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+LOAD CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+LOAD CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+LOAD CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pcd.c.obj
+LOAD CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pcd_ex.c.obj
+LOAD CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_ll_usb.c.obj
+LOAD CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/main.c.obj
+LOAD CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_hal_msp.c.obj
+LOAD CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_it.c.obj
+LOAD CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/system_stm32g4xx.c.obj
+LOAD CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+START GROUP
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a
+END GROUP
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x20020000                _estack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x00000200                _Min_Heap_Size = 0x200
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x1d8
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x1d8 CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+                0x08000000                g_pfnVectors
+                0x080001d8                . = ALIGN (0x4)
+
+.text           0x080001d8      0xc04
+                0x080001d8                . = ALIGN (0x4)
+ *(.text)
+ .text          0x080001d8       0x40 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.text*)
+ .text.__libc_init_array
+                0x08000218       0x48 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-init.o)
+                0x08000218                __libc_init_array
+ .text.memset   0x08000260       0x10 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memset.o)
+                0x08000260                memset
+ .text.RCC_GetSysClockFreqFromPLLSource
+                0x08000270       0x58 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .text.HAL_RCC_OscConfig
+                0x080002c8      0x4e8 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+                0x080002c8                HAL_RCC_OscConfig
+ .text.HAL_RCC_GetSysClockFreq
+                0x080007b0       0x88 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+                0x080007b0                HAL_RCC_GetSysClockFreq
+ .text.HAL_RCC_ClockConfig
+                0x08000838      0x1f8 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+                0x08000838                HAL_RCC_ClockConfig
+ .text.HAL_PWREx_ControlVoltageScaling
+                0x08000a30      0x10c CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+                0x08000a30                HAL_PWREx_ControlVoltageScaling
+ .text.HAL_PWREx_DisableUCPDDeadBattery
+                0x08000b3c       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+                0x08000b3c                HAL_PWREx_DisableUCPDDeadBattery
+ .text.HAL_NVIC_SetPriorityGrouping
+                0x08000b4c       0x24 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+                0x08000b4c                HAL_NVIC_SetPriorityGrouping
+ .text.HAL_NVIC_SetPriority
+                0x08000b70       0x70 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+                0x08000b70                HAL_NVIC_SetPriority
+ .text.HAL_SYSTICK_Config
+                0x08000be0       0x28 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+                0x08000be0                HAL_SYSTICK_Config
+ .text.HAL_InitTick
+                0x08000c08       0x50 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+                0x08000c08                HAL_InitTick
+ .text.HAL_Init
+                0x08000c58       0x1e CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+                0x08000c58                HAL_Init
+ *fill*         0x08000c76        0x2 
+ .text.HAL_IncTick
+                0x08000c78       0x18 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+                0x08000c78                HAL_IncTick
+ .text.HAL_GetTick
+                0x08000c90        0xc CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+                0x08000c90                HAL_GetTick
+ .text.Error_Handler
+                0x08000c9c        0x4 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/main.c.obj
+                0x08000c9c                Error_Handler
+ .text.SystemClock_Config
+                0x08000ca0       0x5e CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/main.c.obj
+                0x08000ca0                SystemClock_Config
+ .text.main     0x08000cfe        0xc CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/main.c.obj
+                0x08000cfe                main
+ *fill*         0x08000d0a        0x2 
+ .text.HAL_MspInit
+                0x08000d0c       0x38 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_hal_msp.c.obj
+                0x08000d0c                HAL_MspInit
+ .text.NMI_Handler
+                0x08000d44        0x2 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_it.c.obj
+                0x08000d44                NMI_Handler
+ .text.HardFault_Handler
+                0x08000d46        0x2 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_it.c.obj
+                0x08000d46                HardFault_Handler
+ .text.MemManage_Handler
+                0x08000d48        0x2 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_it.c.obj
+                0x08000d48                MemManage_Handler
+ .text.BusFault_Handler
+                0x08000d4a        0x2 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_it.c.obj
+                0x08000d4a                BusFault_Handler
+ .text.UsageFault_Handler
+                0x08000d4c        0x2 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_it.c.obj
+                0x08000d4c                UsageFault_Handler
+ .text.SVC_Handler
+                0x08000d4e        0x2 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_it.c.obj
+                0x08000d4e                SVC_Handler
+ .text.DebugMon_Handler
+                0x08000d50        0x2 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_it.c.obj
+                0x08000d50                DebugMon_Handler
+ .text.PendSV_Handler
+                0x08000d52        0x2 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_it.c.obj
+                0x08000d52                PendSV_Handler
+ .text.SysTick_Handler
+                0x08000d54        0x8 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_it.c.obj
+                0x08000d54                SysTick_Handler
+ .text.SystemInit
+                0x08000d5c       0x14 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/system_stm32g4xx.c.obj
+                0x08000d5c                SystemInit
+ .text.Reset_Handler
+                0x08000d70       0x50 CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+                0x08000d70                Reset_Handler
+ .text.Default_Handler
+                0x08000dc0        0x2 CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+                0x08000dc0                RTC_Alarm_IRQHandler
+                0x08000dc0                EXTI2_IRQHandler
+                0x08000dc0                TIM8_TRG_COM_IRQHandler
+                0x08000dc0                TIM8_CC_IRQHandler
+                0x08000dc0                HRTIM1_Master_IRQHandler
+                0x08000dc0                SPI4_IRQHandler
+                0x08000dc0                FDCAN3_IT0_IRQHandler
+                0x08000dc0                TIM1_CC_IRQHandler
+                0x08000dc0                HRTIM1_FLT_IRQHandler
+                0x08000dc0                HRTIM1_TIMF_IRQHandler
+                0x08000dc0                USB_HP_IRQHandler
+                0x08000dc0                CORDIC_IRQHandler
+                0x08000dc0                HRTIM1_TIMD_IRQHandler
+                0x08000dc0                DMA2_Channel8_IRQHandler
+                0x08000dc0                EXTI3_IRQHandler
+                0x08000dc0                I2C3_ER_IRQHandler
+                0x08000dc0                EXTI0_IRQHandler
+                0x08000dc0                I2C2_EV_IRQHandler
+                0x08000dc0                FPU_IRQHandler
+                0x08000dc0                FDCAN1_IT1_IRQHandler
+                0x08000dc0                TIM1_UP_TIM16_IRQHandler
+                0x08000dc0                ADC1_2_IRQHandler
+                0x08000dc0                HRTIM1_TIME_IRQHandler
+                0x08000dc0                SPI1_IRQHandler
+                0x08000dc0                TIM6_DAC_IRQHandler
+                0x08000dc0                HRTIM1_TIMC_IRQHandler
+                0x08000dc0                TIM8_UP_IRQHandler
+                0x08000dc0                DMA2_Channel2_IRQHandler
+                0x08000dc0                DMA1_Channel4_IRQHandler
+                0x08000dc0                TIM20_TRG_COM_IRQHandler
+                0x08000dc0                USART3_IRQHandler
+                0x08000dc0                DMA1_Channel7_IRQHandler
+                0x08000dc0                UART5_IRQHandler
+                0x08000dc0                ADC3_IRQHandler
+                0x08000dc0                TIM4_IRQHandler
+                0x08000dc0                DMA2_Channel1_IRQHandler
+                0x08000dc0                QUADSPI_IRQHandler
+                0x08000dc0                I2C1_EV_IRQHandler
+                0x08000dc0                DMA1_Channel6_IRQHandler
+                0x08000dc0                UART4_IRQHandler
+                0x08000dc0                DMA2_Channel4_IRQHandler
+                0x08000dc0                TIM3_IRQHandler
+                0x08000dc0                RCC_IRQHandler
+                0x08000dc0                TIM20_UP_IRQHandler
+                0x08000dc0                DMA1_Channel1_IRQHandler
+                0x08000dc0                Default_Handler
+                0x08000dc0                DMA2_Channel7_IRQHandler
+                0x08000dc0                RTC_TAMP_LSECSS_IRQHandler
+                0x08000dc0                FMAC_IRQHandler
+                0x08000dc0                EXTI15_10_IRQHandler
+                0x08000dc0                DMA1_Channel8_IRQHandler
+                0x08000dc0                HRTIM1_TIMA_IRQHandler
+                0x08000dc0                TIM7_DAC_IRQHandler
+                0x08000dc0                FDCAN3_IT1_IRQHandler
+                0x08000dc0                TIM5_IRQHandler
+                0x08000dc0                UCPD1_IRQHandler
+                0x08000dc0                I2C3_EV_IRQHandler
+                0x08000dc0                EXTI9_5_IRQHandler
+                0x08000dc0                RTC_WKUP_IRQHandler
+                0x08000dc0                PVD_PVM_IRQHandler
+                0x08000dc0                SPI2_IRQHandler
+                0x08000dc0                ADC5_IRQHandler
+                0x08000dc0                DMA2_Channel5_IRQHandler
+                0x08000dc0                CRS_IRQHandler
+                0x08000dc0                DMA1_Channel5_IRQHandler
+                0x08000dc0                USB_LP_IRQHandler
+                0x08000dc0                EXTI4_IRQHandler
+                0x08000dc0                RNG_IRQHandler
+                0x08000dc0                HRTIM1_TIMB_IRQHandler
+                0x08000dc0                TIM1_TRG_COM_TIM17_IRQHandler
+                0x08000dc0                FDCAN2_IT1_IRQHandler
+                0x08000dc0                DMA1_Channel3_IRQHandler
+                0x08000dc0                ADC4_IRQHandler
+                0x08000dc0                WWDG_IRQHandler
+                0x08000dc0                I2C4_EV_IRQHandler
+                0x08000dc0                FDCAN2_IT0_IRQHandler
+                0x08000dc0                LPUART1_IRQHandler
+                0x08000dc0                DMA2_Channel6_IRQHandler
+                0x08000dc0                FDCAN1_IT0_IRQHandler
+                0x08000dc0                TIM2_IRQHandler
+                0x08000dc0                COMP7_IRQHandler
+                0x08000dc0                COMP1_2_3_IRQHandler
+                0x08000dc0                EXTI1_IRQHandler
+                0x08000dc0                USART2_IRQHandler
+                0x08000dc0                COMP4_5_6_IRQHandler
+                0x08000dc0                TIM20_BRK_IRQHandler
+                0x08000dc0                I2C2_ER_IRQHandler
+                0x08000dc0                DMA1_Channel2_IRQHandler
+                0x08000dc0                TIM8_BRK_IRQHandler
+                0x08000dc0                FLASH_IRQHandler
+                0x08000dc0                TIM20_CC_IRQHandler
+                0x08000dc0                USART1_IRQHandler
+                0x08000dc0                SPI3_IRQHandler
+                0x08000dc0                I2C1_ER_IRQHandler
+                0x08000dc0                FMC_IRQHandler
+                0x08000dc0                LPTIM1_IRQHandler
+                0x08000dc0                DMAMUX_OVR_IRQHandler
+                0x08000dc0                I2C4_ER_IRQHandler
+                0x08000dc0                USBWakeUp_IRQHandler
+                0x08000dc0                SAI1_IRQHandler
+                0x08000dc0                DMA2_Channel3_IRQHandler
+                0x08000dc0                TIM1_BRK_TIM15_IRQHandler
+ *(.glue_7)
+ .glue_7        0x08000dc2        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x08000dc2        0x0 linker stubs
+ *(.eh_frame)
+ *fill*         0x08000dc2        0x2 
+ .eh_frame      0x08000dc4        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.init)
+ .init          0x08000dc4        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x08000dc4                _init
+ .init          0x08000dc8        0x8 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ *(.fini)
+ .fini          0x08000dd0        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x08000dd0                _fini
+ .fini          0x08000dd4        0x8 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x08000ddc                . = ALIGN (0x4)
+                0x08000ddc                _etext = .
+
+.vfp11_veneer   0x08000ddc        0x0
+ .vfp11_veneer  0x08000ddc        0x0 linker stubs
+
+.v4_bx          0x08000ddc        0x0
+ .v4_bx         0x08000ddc        0x0 linker stubs
+
+.iplt           0x08000ddc        0x0
+ .iplt          0x08000ddc        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.rodata         0x08000ddc       0x10
+                0x08000ddc                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.AHBPrescTable
+                0x08000ddc       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/system_stm32g4xx.c.obj
+                0x08000ddc                AHBPrescTable
+                0x08000dec                . = ALIGN (0x4)
+
+.rel.dyn        0x08000dec        0x0
+ .rel.iplt      0x08000dec        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x08000dec        0x0
+                0x08000dec                __exidx_start = .
+ *(.ARM.exidx*)
+                0x08000dec                __exidx_end = .
+
+.preinit_array  0x08000dec        0x0
+                0x08000dec                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x08000dec                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x08000dec        0x4
+                0x08000dec                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x08000dec        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x08000df0                PROVIDE (__init_array_end = .)
+
+.fini_array     0x08000df0        0x4
+                [!provide]                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x08000df0        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                [!provide]                PROVIDE (__fini_array_end = .)
+                0x08000df4                _sidata = LOADADDR (.data)
+
+.data           0x20000000        0xc load address 0x08000df4
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.uwTickFreq
+                0x20000000        0x4 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+                0x20000000                uwTickFreq
+ .data.uwTickPrio
+                0x20000004        0x4 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+                0x20000004                uwTickPrio
+ .data.SystemCoreClock
+                0x20000008        0x4 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/system_stm32g4xx.c.obj
+                0x20000008                SystemCoreClock
+                0x2000000c                . = ALIGN (0x4)
+                0x2000000c                _edata = .
+
+.igot.plt       0x2000000c        0x0 load address 0x08000e00
+ .igot.plt      0x2000000c        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x2000000c                . = ALIGN (0x4)
+
+.bss            0x2000000c       0x20 load address 0x08000e00
+                0x2000000c                _sbss = .
+                0x2000000c                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x2000000c       0x1c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.bss*)
+ .bss.uwTick    0x20000028        0x4 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+                0x20000028                uwTick
+ *(COMMON)
+                0x2000002c                . = ALIGN (0x4)
+                0x2000002c                _ebss = .
+                0x2000002c                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x2000002c      0x604 load address 0x08000e00
+                0x20000030                . = ALIGN (0x8)
+ *fill*         0x2000002c        0x4 
+                [!provide]                PROVIDE (end = .)
+                [!provide]                PROVIDE (_end = .)
+                0x20000230                . = (. + _Min_Heap_Size)
+ *fill*         0x20000030      0x200 
+                0x20000630                . = (. + _Min_Stack_Size)
+ *fill*         0x20000230      0x400 
+                0x20000630                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x30
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .ARM.attributes
+                0x0000001e       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x00000052       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000086       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000000ba       0x34 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .ARM.attributes
+                0x000000ee       0x34 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .ARM.attributes
+                0x00000122       0x34 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .ARM.attributes
+                0x00000156       0x34 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .ARM.attributes
+                0x0000018a       0x34 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/main.c.obj
+ .ARM.attributes
+                0x000001be       0x34 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_hal_msp.c.obj
+ .ARM.attributes
+                0x000001f2       0x34 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_it.c.obj
+ .ARM.attributes
+                0x00000226       0x34 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/system_stm32g4xx.c.obj
+ .ARM.attributes
+                0x0000025a       0x21 CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+ .ARM.attributes
+                0x0000027b       0x1e c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+OUTPUT(ZUMO-ROBOT.out elf32-littlearm)
+LOAD linker stubs
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
+
+.debug_frame    0x00000000      0x964
+ .debug_frame   0x00000000       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-init.o)
+ .debug_frame   0x0000002c       0x20 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x0000004c      0x198 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .debug_frame   0x000001e4      0x268 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .debug_frame   0x0000044c      0x148 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .debug_frame   0x00000594      0x274 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .debug_frame   0x00000808       0x58 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/main.c.obj
+ .debug_frame   0x00000860       0x2c CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_hal_msp.c.obj
+ .debug_frame   0x0000088c       0xa8 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_it.c.obj
+ .debug_frame   0x00000934       0x30 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/system_stm32g4xx.c.obj
+
+.debug_info     0x00000000     0x4379
+ .debug_info    0x00000000      0xef3 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .debug_info    0x00000ef3      0xa00 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .debug_info    0x000018f3     0x10f4 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .debug_info    0x000029e7      0xc26 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .debug_info    0x0000360d      0x33d CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/main.c.obj
+ .debug_info    0x0000394a      0x337 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_hal_msp.c.obj
+ .debug_info    0x00003c81      0x129 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_it.c.obj
+ .debug_info    0x00003daa      0x5ad CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/system_stm32g4xx.c.obj
+ .debug_info    0x00004357       0x22 CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+
+.debug_abbrev   0x00000000      0xe12
+ .debug_abbrev  0x00000000      0x26f CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .debug_abbrev  0x0000026f      0x245 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .debug_abbrev  0x000004b4      0x361 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .debug_abbrev  0x00000815      0x23e CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .debug_abbrev  0x00000a53      0x140 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/main.c.obj
+ .debug_abbrev  0x00000b93       0xd6 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_hal_msp.c.obj
+ .debug_abbrev  0x00000c69       0x7e CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_it.c.obj
+ .debug_abbrev  0x00000ce7      0x119 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/system_stm32g4xx.c.obj
+ .debug_abbrev  0x00000e00       0x12 CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+
+.debug_loc      0x00000000     0x1c32
+ .debug_loc     0x00000000      0x84d CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .debug_loc     0x0000084d      0xa23 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .debug_loc     0x00001270      0x736 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .debug_loc     0x000019a6      0x1ef CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .debug_loc     0x00001b95       0x9d CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/system_stm32g4xx.c.obj
+
+.debug_aranges  0x00000000      0x4b0
+ .debug_aranges
+                0x00000000       0x98 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .debug_aranges
+                0x00000098      0x140 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .debug_aranges
+                0x000001d8       0xa8 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .debug_aranges
+                0x00000280      0x130 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .debug_aranges
+                0x000003b0       0x30 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/main.c.obj
+ .debug_aranges
+                0x000003e0       0x20 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_hal_msp.c.obj
+ .debug_aranges
+                0x00000400       0x60 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_it.c.obj
+ .debug_aranges
+                0x00000460       0x28 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/system_stm32g4xx.c.obj
+ .debug_aranges
+                0x00000488       0x28 CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+
+.debug_ranges   0x00000000      0x4a0
+ .debug_ranges  0x00000000       0xa0 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .debug_ranges  0x000000a0      0x130 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .debug_ranges  0x000001d0       0xf8 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .debug_ranges  0x000002c8      0x120 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .debug_ranges  0x000003e8       0x20 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/main.c.obj
+ .debug_ranges  0x00000408       0x10 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_hal_msp.c.obj
+ .debug_ranges  0x00000418       0x50 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_it.c.obj
+ .debug_ranges  0x00000468       0x18 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/system_stm32g4xx.c.obj
+ .debug_ranges  0x00000480       0x20 CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+
+.debug_line     0x00000000     0x35e7
+ .debug_line    0x00000000      0xeab CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .debug_line    0x00000eab      0xb8d CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .debug_line    0x00001a38      0x87a CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .debug_line    0x000022b2      0x79a CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .debug_line    0x00002a4c      0x352 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/main.c.obj
+ .debug_line    0x00002d9e      0x262 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_hal_msp.c.obj
+ .debug_line    0x00003000      0x217 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_it.c.obj
+ .debug_line    0x00003217      0x309 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/system_stm32g4xx.c.obj
+ .debug_line    0x00003520       0xc7 CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+
+.debug_str      0x00000000     0x209f
+ .debug_str     0x00000000      0x851 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+                                0x8b8 (size before relaxing)
+ .debug_str     0x00000851      0x5b2 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+                                0x845 (size before relaxing)
+ .debug_str     0x00000e03      0xb36 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+                                0xdc0 (size before relaxing)
+ .debug_str     0x00001939      0x45b CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+                                0xe71 (size before relaxing)
+ .debug_str     0x00001d94       0xa5 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/main.c.obj
+                                0x3dd (size before relaxing)
+ .debug_str     0x00001e39       0x6d CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_hal_msp.c.obj
+                                0x391 (size before relaxing)
+ .debug_str     0x00001ea6       0xf8 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_it.c.obj
+                                0x28e (size before relaxing)
+ .debug_str     0x00001f9e       0x8d CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/system_stm32g4xx.c.obj
+                                0x42a (size before relaxing)
+ .debug_str     0x0000202b       0x74 CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+                                 0xd6 (size before relaxing)
+
+.comment        0x00000000       0x49
+ .comment       0x00000000       0x49 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+                                 0x4a (size before relaxing)
+ .comment       0x00000049       0x4a CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/main.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_hal_msp.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_it.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/system_stm32g4xx.c.obj
+
+Cross Reference Table
+
+Symbol                                            File
+ADC1_2_IRQHandler                                 CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+ADC3_IRQHandler                                   CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+ADC4_IRQHandler                                   CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+ADC5_IRQHandler                                   CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+AHBPrescTable                                     CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/system_stm32g4xx.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+APBPrescTable                                     CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/system_stm32g4xx.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+BusFault_Handler                                  CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_it.c.obj
+COMP1_2_3_IRQHandler                              CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+COMP4_5_6_IRQHandler                              CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+COMP7_IRQHandler                                  CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+CORDIC_IRQHandler                                 CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+CRS_IRQHandler                                    CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+DMA1_Channel1_IRQHandler                          CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+DMA1_Channel2_IRQHandler                          CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+DMA1_Channel3_IRQHandler                          CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+DMA1_Channel4_IRQHandler                          CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+DMA1_Channel5_IRQHandler                          CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+DMA1_Channel6_IRQHandler                          CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+DMA1_Channel7_IRQHandler                          CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+DMA1_Channel8_IRQHandler                          CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+DMA2_Channel1_IRQHandler                          CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+DMA2_Channel2_IRQHandler                          CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+DMA2_Channel3_IRQHandler                          CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+DMA2_Channel4_IRQHandler                          CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+DMA2_Channel5_IRQHandler                          CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+DMA2_Channel6_IRQHandler                          CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+DMA2_Channel7_IRQHandler                          CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+DMA2_Channel8_IRQHandler                          CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+DMAMUX_OVR_IRQHandler                             CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+DebugMon_Handler                                  CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_it.c.obj
+Default_Handler                                   CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+EXTI0_IRQHandler                                  CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+EXTI15_10_IRQHandler                              CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+EXTI1_IRQHandler                                  CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+EXTI2_IRQHandler                                  CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+EXTI3_IRQHandler                                  CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+EXTI4_IRQHandler                                  CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+EXTI9_5_IRQHandler                                CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+Error_Handler                                     CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/main.c.obj
+FDCAN1_IT0_IRQHandler                             CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+FDCAN1_IT1_IRQHandler                             CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+FDCAN2_IT0_IRQHandler                             CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+FDCAN2_IT1_IRQHandler                             CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+FDCAN3_IT0_IRQHandler                             CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+FDCAN3_IT1_IRQHandler                             CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+FLASH_FlushCaches                                 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+FLASH_IRQHandler                                  CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+FLASH_PageErase                                   CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+FLASH_WaitForLastOperation                        CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+FMAC_IRQHandler                                   CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+FMC_IRQHandler                                    CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+FPU_IRQHandler                                    CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+HAL_DBGMCU_DisableDBGSleepMode                    CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+HAL_DBGMCU_DisableDBGStandbyMode                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+HAL_DBGMCU_DisableDBGStopMode                     CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+HAL_DBGMCU_EnableDBGSleepMode                     CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+HAL_DBGMCU_EnableDBGStandbyMode                   CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+HAL_DBGMCU_EnableDBGStopMode                      CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+HAL_DMAEx_ConfigMuxRequestGenerator               CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+HAL_DMAEx_ConfigMuxSync                           CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+HAL_DMAEx_DisableMuxRequestGenerator              CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+HAL_DMAEx_EnableMuxRequestGenerator               CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+HAL_DMAEx_MUX_IRQHandler                          CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+HAL_DMA_Abort                                     CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+HAL_DMA_Abort_IT                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+HAL_DMA_DeInit                                    CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+HAL_DMA_GetError                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+HAL_DMA_GetState                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+HAL_DMA_IRQHandler                                CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+HAL_DMA_Init                                      CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+HAL_DMA_PollForTransfer                           CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+HAL_DMA_RegisterCallback                          CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+HAL_DMA_Start                                     CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+HAL_DMA_Start_IT                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+HAL_DMA_UnRegisterCallback                        CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+HAL_DeInit                                        CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+HAL_Delay                                         CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+HAL_EXTI_ClearConfigLine                          CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+HAL_EXTI_ClearPending                             CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+HAL_EXTI_GenerateSWI                              CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+HAL_EXTI_GetConfigLine                            CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+HAL_EXTI_GetHandle                                CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+HAL_EXTI_GetPending                               CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+HAL_EXTI_IRQHandler                               CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+HAL_EXTI_RegisterCallback                         CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+HAL_EXTI_SetConfigLine                            CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+HAL_FLASHEx_DisableDebugger                       CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+HAL_FLASHEx_DisableRunPowerDown                   CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj
+HAL_FLASHEx_EnableDebugger                        CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+HAL_FLASHEx_EnableRunPowerDown                    CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj
+HAL_FLASHEx_EnableSecMemProtection                CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+HAL_FLASHEx_Erase                                 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+HAL_FLASHEx_Erase_IT                              CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+HAL_FLASHEx_OBGetConfig                           CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+HAL_FLASHEx_OBProgram                             CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+HAL_FLASHEx_OB_DBankConfig                        CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj
+HAL_FLASH_EndOfOperationCallback                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+HAL_FLASH_GetError                                CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+HAL_FLASH_IRQHandler                              CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+HAL_FLASH_Lock                                    CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+HAL_FLASH_OB_Launch                               CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+HAL_FLASH_OB_Lock                                 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+HAL_FLASH_OB_Unlock                               CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+HAL_FLASH_OperationErrorCallback                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+HAL_FLASH_Program                                 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+HAL_FLASH_Program_IT                              CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+HAL_FLASH_Unlock                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+HAL_GPIO_DeInit                                   CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+HAL_GPIO_EXTI_Callback                            CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+HAL_GPIO_EXTI_IRQHandler                          CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+HAL_GPIO_Init                                     CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+HAL_GPIO_LockPin                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+HAL_GPIO_ReadPin                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+HAL_GPIO_TogglePin                                CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+HAL_GPIO_WritePin                                 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+HAL_GetDEVID                                      CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+HAL_GetHalVersion                                 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+HAL_GetREVID                                      CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+HAL_GetTick                                       CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+HAL_GetTickFreq                                   CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+HAL_GetTickPrio                                   CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+HAL_IncTick                                       CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_it.c.obj
+HAL_Init                                          CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/main.c.obj
+HAL_InitTick                                      CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+HAL_MPU_ConfigRegion                              CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+HAL_MPU_Disable                                   CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+HAL_MPU_Enable                                    CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+HAL_MspDeInit                                     CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+HAL_MspInit                                       CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_hal_msp.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+HAL_NVIC_ClearPendingIRQ                          CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+HAL_NVIC_DisableIRQ                               CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+HAL_NVIC_EnableIRQ                                CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+HAL_NVIC_GetActive                                CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+HAL_NVIC_GetPendingIRQ                            CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+HAL_NVIC_GetPriority                              CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+HAL_NVIC_GetPriorityGrouping                      CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+HAL_NVIC_SetPendingIRQ                            CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+HAL_NVIC_SetPriority                              CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+HAL_NVIC_SetPriorityGrouping                      CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+HAL_NVIC_SystemReset                              CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+HAL_PWREx_ConfigPVM                               CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+HAL_PWREx_ControlVoltageScaling                   CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/main.c.obj
+HAL_PWREx_DisableBatteryCharging                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+HAL_PWREx_DisableGPIOPullDown                     CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+HAL_PWREx_DisableGPIOPullUp                       CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+HAL_PWREx_DisableInternalWakeUpLine               CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+HAL_PWREx_DisableLowPowerRunMode                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+HAL_PWREx_DisablePVM1                             CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+HAL_PWREx_DisablePVM2                             CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+HAL_PWREx_DisablePVM3                             CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+HAL_PWREx_DisablePVM4                             CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+HAL_PWREx_DisablePullUpPullDownConfig             CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+HAL_PWREx_DisableSRAM2ContentRetention            CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+HAL_PWREx_DisableUCPDDeadBattery                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_hal_msp.c.obj
+HAL_PWREx_DisableUCPDStandbyMode                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+HAL_PWREx_EnableBatteryCharging                   CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+HAL_PWREx_EnableGPIOPullDown                      CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+HAL_PWREx_EnableGPIOPullUp                        CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+HAL_PWREx_EnableInternalWakeUpLine                CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+HAL_PWREx_EnableLowPowerRunMode                   CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+HAL_PWREx_EnablePVM1                              CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+HAL_PWREx_EnablePVM2                              CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+HAL_PWREx_EnablePVM3                              CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+HAL_PWREx_EnablePVM4                              CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+HAL_PWREx_EnablePullUpPullDownConfig              CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+HAL_PWREx_EnableSRAM2ContentRetention             CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+HAL_PWREx_EnableUCPDDeadBattery                   CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+HAL_PWREx_EnableUCPDStandbyMode                   CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+HAL_PWREx_EnterSHUTDOWNMode                       CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+HAL_PWREx_EnterSTOP0Mode                          CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+HAL_PWREx_EnterSTOP1Mode                          CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+HAL_PWREx_GetVoltageRange                         CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+HAL_PWREx_PVD_PVM_IRQHandler                      CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+HAL_PWREx_PVM1Callback                            CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+HAL_PWREx_PVM2Callback                            CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+HAL_PWREx_PVM3Callback                            CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+HAL_PWREx_PVM4Callback                            CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+HAL_PWR_ConfigPVD                                 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+HAL_PWR_DeInit                                    CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+HAL_PWR_DisableBkUpAccess                         CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+HAL_PWR_DisablePVD                                CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+HAL_PWR_DisableSEVOnPend                          CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+HAL_PWR_DisableSleepOnExit                        CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+HAL_PWR_DisableWakeUpPin                          CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+HAL_PWR_EnableBkUpAccess                          CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+HAL_PWR_EnablePVD                                 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+HAL_PWR_EnableSEVOnPend                           CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+HAL_PWR_EnableSleepOnExit                         CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+HAL_PWR_EnableWakeUpPin                           CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+HAL_PWR_EnterSLEEPMode                            CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+HAL_PWR_EnterSTANDBYMode                          CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+HAL_PWR_EnterSTOPMode                             CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+HAL_PWR_PVDCallback                               CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+HAL_RCCEx_CRSConfig                               CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+HAL_RCCEx_CRSGetSynchronizationInfo               CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+HAL_RCCEx_CRSSoftwareSynchronizationGenerate      CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+HAL_RCCEx_CRSWaitSynchronization                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+HAL_RCCEx_CRS_ErrorCallback                       CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+HAL_RCCEx_CRS_ExpectedSyncCallback                CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+HAL_RCCEx_CRS_IRQHandler                          CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+HAL_RCCEx_CRS_SyncOkCallback                      CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+HAL_RCCEx_CRS_SyncWarnCallback                    CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+HAL_RCCEx_DisableLSCO                             CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+HAL_RCCEx_DisableLSECSS                           CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+HAL_RCCEx_EnableLSCO                              CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+HAL_RCCEx_EnableLSECSS                            CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+HAL_RCCEx_EnableLSECSS_IT                         CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+HAL_RCCEx_GetPeriphCLKConfig                      CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+HAL_RCCEx_GetPeriphCLKFreq                        CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+HAL_RCCEx_LSECSS_Callback                         CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+HAL_RCCEx_LSECSS_IRQHandler                       CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+HAL_RCCEx_PeriphCLKConfig                         CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+HAL_RCC_CSSCallback                               CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+HAL_RCC_ClockConfig                               CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/main.c.obj
+HAL_RCC_DeInit                                    CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+HAL_RCC_DisableLSECSS                             CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+HAL_RCC_EnableCSS                                 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+HAL_RCC_EnableLSECSS                              CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+HAL_RCC_GetClockConfig                            CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+HAL_RCC_GetHCLKFreq                               CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+HAL_RCC_GetOscConfig                              CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+HAL_RCC_GetPCLK1Freq                              CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+HAL_RCC_GetPCLK2Freq                              CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+HAL_RCC_GetSysClockFreq                           CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+HAL_RCC_MCOConfig                                 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+HAL_RCC_NMI_IRQHandler                            CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+HAL_RCC_OscConfig                                 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/main.c.obj
+HAL_ResumeTick                                    CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+HAL_SYSCFG_CCMSRAMErase                           CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+HAL_SYSCFG_CCMSRAM_WriteProtectionEnable          CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+HAL_SYSCFG_DisableIOSwitchBooster                 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+HAL_SYSCFG_DisableIOSwitchVDD                     CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+HAL_SYSCFG_DisableMemorySwappingBank              CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+HAL_SYSCFG_DisableVREFBUF                         CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+HAL_SYSCFG_EnableIOSwitchBooster                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+HAL_SYSCFG_EnableIOSwitchVDD                      CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+HAL_SYSCFG_EnableMemorySwappingBank               CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+HAL_SYSCFG_EnableVREFBUF                          CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+HAL_SYSCFG_VREFBUF_HighImpedanceConfig            CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+HAL_SYSCFG_VREFBUF_TrimmingConfig                 CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+HAL_SYSCFG_VREFBUF_VoltageScalingConfig           CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+HAL_SYSTICK_CLKSourceConfig                       CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+HAL_SYSTICK_Callback                              CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+HAL_SYSTICK_Config                                CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+HAL_SYSTICK_IRQHandler                            CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+HAL_SetTickFreq                                   CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+HAL_SuspendTick                                   CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+HRTIM1_FLT_IRQHandler                             CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+HRTIM1_Master_IRQHandler                          CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+HRTIM1_TIMA_IRQHandler                            CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+HRTIM1_TIMB_IRQHandler                            CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+HRTIM1_TIMC_IRQHandler                            CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+HRTIM1_TIMD_IRQHandler                            CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+HRTIM1_TIME_IRQHandler                            CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+HRTIM1_TIMF_IRQHandler                            CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+HardFault_Handler                                 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_it.c.obj
+I2C1_ER_IRQHandler                                CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+I2C1_EV_IRQHandler                                CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+I2C2_ER_IRQHandler                                CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+I2C2_EV_IRQHandler                                CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+I2C3_ER_IRQHandler                                CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+I2C3_EV_IRQHandler                                CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+I2C4_ER_IRQHandler                                CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+I2C4_EV_IRQHandler                                CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+LPTIM1_IRQHandler                                 CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+LPUART1_IRQHandler                                CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+MemManage_Handler                                 CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_it.c.obj
+NMI_Handler                                       CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_it.c.obj
+PVD_PVM_IRQHandler                                CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+PendSV_Handler                                    CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_it.c.obj
+QUADSPI_IRQHandler                                CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+RCC_IRQHandler                                    CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+RNG_IRQHandler                                    CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+RTC_Alarm_IRQHandler                              CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+RTC_TAMP_LSECSS_IRQHandler                        CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+RTC_WKUP_IRQHandler                               CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+Reset_Handler                                     CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+SAI1_IRQHandler                                   CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+SPI1_IRQHandler                                   CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+SPI2_IRQHandler                                   CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+SPI3_IRQHandler                                   CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+SPI4_IRQHandler                                   CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+SVC_Handler                                       CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_it.c.obj
+SysTick_Handler                                   CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_it.c.obj
+SystemClock_Config                                CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/main.c.obj
+SystemCoreClock                                   CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/system_stm32g4xx.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+SystemCoreClockUpdate                             CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/system_stm32g4xx.c.obj
+SystemInit                                        CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/system_stm32g4xx.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+TIM1_BRK_TIM15_IRQHandler                         CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+TIM1_CC_IRQHandler                                CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+TIM1_TRG_COM_TIM17_IRQHandler                     CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+TIM1_UP_TIM16_IRQHandler                          CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+TIM20_BRK_IRQHandler                              CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+TIM20_CC_IRQHandler                               CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+TIM20_TRG_COM_IRQHandler                          CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+TIM20_UP_IRQHandler                               CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+TIM2_IRQHandler                                   CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+TIM3_IRQHandler                                   CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+TIM4_IRQHandler                                   CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+TIM5_IRQHandler                                   CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+TIM6_DAC_IRQHandler                               CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+TIM7_DAC_IRQHandler                               CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+TIM8_BRK_IRQHandler                               CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+TIM8_CC_IRQHandler                                CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+TIM8_TRG_COM_IRQHandler                           CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+TIM8_UP_IRQHandler                                CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+UART4_IRQHandler                                  CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+UART5_IRQHandler                                  CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+UCPD1_IRQHandler                                  CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+USART1_IRQHandler                                 CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+USART2_IRQHandler                                 CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+USART3_IRQHandler                                 CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+USBWakeUp_IRQHandler                              CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+USB_HP_IRQHandler                                 CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+USB_LP_IRQHandler                                 CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+UsageFault_Handler                                CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/stm32g4xx_it.c.obj
+WWDG_IRQHandler                                   CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+__bss_end__                                       c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+__bss_start__                                     c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+__call_exitprocs                                  c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o)
+__deregister_frame_info                           c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+__dso_handle                                      c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+__init_array_end                                  c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-init.o)
+__init_array_start                                c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-init.o)
+__libc_fini_array                                 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+__libc_init_array                                 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-init.o)
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+                                                  c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+__preinit_array_end                               c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-init.o)
+__preinit_array_start                             c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-init.o)
+__register_frame_info                             c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+__sf_fake_stderr                                  c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+__sf_fake_stdin                                   c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+__sf_fake_stdout                                  c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+__stack                                           c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+_ebss                                             CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+_edata                                            CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+_estack                                           CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+_exit                                             c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+                                                  c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o)
+_fini                                             c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+_global_impure_ptr                                c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+                                                  c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o)
+_impure_ptr                                       c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+_init                                             c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+                                                  c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-init.o)
+_mainCRTStartup                                   c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+_sbss                                             CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+_sdata                                            CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+_sidata                                           CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+_stack_init                                       c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+_start                                            c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+atexit                                            c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+exit                                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o)
+                                                  c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+g_pfnVectors                                      CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+hardware_init_hook                                c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+main                                              CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/main.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/startup_stm32g474xx.s.obj
+                                                  c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+memset                                            c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memset.o)
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Core/Src/main.c.obj
+                                                  c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+pFlash                                            CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+software_init_hook                                c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+uwTick                                            CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+uwTickFreq                                        CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+uwTickPrio                                        CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+                                                  CMakeFiles/ZUMO-ROBOT.out.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
