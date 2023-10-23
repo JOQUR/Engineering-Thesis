@@ -40,6 +40,7 @@ set(STM32CUBEMX_GENERATED_FILES
         ../ZUMO-ROBOT/Core/Src/stm32g4xx_hal_msp.c
         ../ZUMO-ROBOT/Core/Src/stm32g4xx_it.c
         ../ZUMO-ROBOT/Core/Src/system_stm32g4xx.c
+        ../ZUMO-ROBOT/Application/Src/zumoApplication.c
 
         ../ZUMO-ROBOT/startup_stm32g474xx.s)
 
@@ -57,6 +58,7 @@ target_include_directories(${EXECUTABLE} PRIVATE
         ../ZUMO-ROBOT/Drivers/STM32G4xx_HAL_Driver/Inc
         ../ZUMO-ROBOT/Drivers/CMSIS/Device/ST/STM32G4xx/Include
         ../ZUMO-ROBOT/Drivers/CMSIS/Include
+        ../ZUMO-ROBOT/Application/Inc
         )
 
 target_compile_options(${EXECUTABLE} PRIVATE
