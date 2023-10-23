@@ -40,6 +40,16 @@ set(STM32CUBEMX_GENERATED_FILES
         ../ZUMO-ROBOT/Core/Src/stm32g4xx_it.c
         ../ZUMO-ROBOT/Core/Src/system_stm32g4xx.c
         ../ZUMO-ROBOT/Application/Src/zumoApplication.c
+        ../ZUMO-ROBOT/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.c
+        ../ZUMO-ROBOT/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c
+        ../ZUMO-ROBOT/Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+        ../ZUMO-ROBOT/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+        ../ZUMO-ROBOT/Middlewares/Third_Party/FreeRTOS/Source/list.c
+        ../ZUMO-ROBOT/Middlewares/Third_Party/FreeRTOS/Source/queue.c
+        ../ZUMO-ROBOT/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+        ../ZUMO-ROBOT/Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+        ../ZUMO-ROBOT/Middlewares/Third_Party/FreeRTOS/Source/timers.c
+        ../ZUMO-ROBOT/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
 
         ../ZUMO-ROBOT/startup_stm32g474xx.s)
 
@@ -58,6 +68,9 @@ target_include_directories(${EXECUTABLE} PRIVATE
         ../ZUMO-ROBOT/Drivers/CMSIS/Device/ST/STM32G4xx/Include
         ../ZUMO-ROBOT/Drivers/CMSIS/Include
         ../ZUMO-ROBOT/Application/Inc
+        ../ZUMO-ROBOT/Middlewares/Third_Party/FreeRTOS/Source/Include
+        ../ZUMO-ROBOT/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS
+        ../ZUMO-ROBOT/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F
         )
 
 target_compile_options(${EXECUTABLE} PRIVATE
