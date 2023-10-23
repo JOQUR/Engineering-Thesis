@@ -5,3 +5,4 @@
 #include "task.h"
 
 
+void task_zumoInit(void *params);

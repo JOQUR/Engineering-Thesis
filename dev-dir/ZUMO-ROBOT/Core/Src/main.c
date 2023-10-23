@@ -57,6 +57,7 @@ static void MX_SPI1_Init(void);
 void StartDefaultTask(void const * argument);
 
 /* USER CODE BEGIN PFP */
+extern void task_zumoInit(void* params);
 
 /* USER CODE END PFP */
 
@@ -122,6 +123,9 @@ int main(void)
 
   /* USER CODE BEGIN RTOS_THREADS */
   /* add threads, ... */
+  if (pdPASS != xTaskCreate(task_zumoInit, "Init Task", configMINIMAL_STACK_SIZE, NULL, 3, NULL)) {
+    return 0;
+  }
   /* USER CODE END RTOS_THREADS */
 
   /* Start scheduler */

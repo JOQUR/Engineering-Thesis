@@ -2,6 +2,8 @@
     "files.associations": {
         "stm32g4xx_hal_uart.h": "c",
         "cmsis_os.h": "c",
-        "freertos.h": "c"
+        "freertos.h": "c",
+        "stm32g4xx_hal_spi.h": "c",
+        "zumoapplication.h": "c"
     }
 }
