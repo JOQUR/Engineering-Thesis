@@ -5,7 +5,7 @@ set(CMAKE_TRY_COMPILE_TARGET_TYPE STATIC_LIBRARY)
 project(ZUMO-ROBOT)
 
 enable_language(C ASM)
-set(CMAKE_C_STANDARD 99)
+set(CMAKE_C_STANDARD 11)
 set(CMAKE_C_STANDARD_REQUIRED ON)
 set(CMAKE_C_EXTENSIONS OFF)
 
@@ -15,6 +15,8 @@ set(STM32CUBEMX_GENERATED_FILES
         ../ZUMO-ROBOT/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim.c
         ../ZUMO-ROBOT/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim_ex.c
         ../ZUMO-ROBOT/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_uart.c
+        ../ZUMO-ROBOT/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_spi.c
+        ../ZUMO-ROBOT/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_uart_ex.c
         ../ZUMO-ROBOT/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c
         ../ZUMO-ROBOT/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c
         ../ZUMO-ROBOT/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c
@@ -28,9 +30,6 @@ set(STM32CUBEMX_GENERATED_FILES
         ../ZUMO-ROBOT/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c
         ../ZUMO-ROBOT/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c
         ../ZUMO-ROBOT/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c
-        ../ZUMO-ROBOT/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pcd.c
-        ../ZUMO-ROBOT/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pcd_ex.c
-        ../ZUMO-ROBOT/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_ll_usb.c
 
         ../ZUMO-ROBOT/Core/Inc/main.h
         ../ZUMO-ROBOT/Core/Inc/stm32g4xx_hal_conf.h
