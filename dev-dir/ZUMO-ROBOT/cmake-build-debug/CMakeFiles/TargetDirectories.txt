@@ -1,3 +1,0 @@
-C:/Users/PKier/OneDrive/Pulpit/ZUMO_ROBOT/Engineering-Thesis/dev-dir/ZUMO-ROBOT/cmake-build-debug/CMakeFiles/ZUMO-ROBOT.out.dir
-C:/Users/PKier/OneDrive/Pulpit/ZUMO_ROBOT/Engineering-Thesis/dev-dir/ZUMO-ROBOT/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/PKier/OneDrive/Pulpit/ZUMO_ROBOT/Engineering-Thesis/dev-dir/ZUMO-ROBOT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
