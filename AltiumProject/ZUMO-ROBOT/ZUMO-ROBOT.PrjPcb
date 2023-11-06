@@ -49,6 +49,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=Parts\FT231XS-R\FT231XS-R.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GAVJKCWY
+
+[Document2]
 DocumentPath=Parts\ENG_DRV\AltiumDesigner\DRV8833PWP.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -65,7 +82,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JCZYASRH
 
-[Document2]
+[Document3]
 DocumentPath=Parts\ul_LM2903PWRG4\AltiumDesigner\LM2903PWRG4.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -82,7 +99,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HEEADACN
 
-[Document3]
+[Document4]
 DocumentPath=Parts\ul_KTIR0711S\AltiumDesigner\KTIR0711S.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VXEJWERC
 
-[Document4]
+[Document5]
 DocumentPath=Parts\STM32G474VET6\STM32VET6.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,7 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JVHTISAB
 
-[Document5]
+[Document6]
 DocumentPath=Parts\ZENER1V8\AltiumDesigner\MMSZ4678T1G.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,7 +150,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HKMPXYMF
 
-[Document6]
+[Document7]
 DocumentPath=Parts\WS2812B\WS2812B.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,7 +167,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=COODAKXW
 
-[Document7]
+[Document8]
 DocumentPath=Parts\10Header\AltiumDesigner\5-102618-3.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -167,7 +184,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EWMTDGIP
 
-[Document8]
+[Document9]
 DocumentPath=Parts\Resistor_tmpl.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -184,7 +201,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LIQFXQAR
 
-[Document9]
+[Document10]
 DocumentPath=mainSchema.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -201,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HYSTGIQV
 
-[Document10]
+[Document11]
 DocumentPath=mcu.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -218,7 +235,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CTJGRDSD
 
-[Document11]
+[Document12]
+DocumentPath=Parts\FT231XS-R\SOP63P599X175-20N.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JMJCXPAG
+
+[Document13]
 DocumentPath=Parts\ZENER1V8\AltiumDesigner\MMSZ4678T1G.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,7 +269,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GUJPNXAD
 
-[Document12]
+[Document14]
 DocumentPath=Parts\10Header\AltiumDesigner\5-102618-3.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,7 +286,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VYPNSTOA
 
-[Document13]
+[Document15]
 DocumentPath=Parts\ENG_DRV\AltiumDesigner\DRV8833PWP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,7 +303,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FVCKJCIF
 
-[Document14]
+[Document16]
 DocumentPath=Parts\STM32G474VET6\STM32VET6.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -286,7 +320,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GMIVLSFD
 
-[Document15]
+[Document17]
 DocumentPath=Parts\ul_LM2903PWRG4\AltiumDesigner\LM2903PWRG4.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -303,7 +337,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GTYGTPTN
 
-[Document16]
+[Document18]
 DocumentPath=Parts\WS2812B\WS2812B.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -320,7 +354,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SWMWYFCG
 
-[Document17]
+[Document19]
 DocumentPath=Parts\ul_KTIR0711S\AltiumDesigner\KTIR0711S.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -337,7 +371,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YNCDDXQD
 
-[Document18]
+[Document20]
 DocumentPath=Templates.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -354,7 +388,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RLMKEIMW
 
-[Document19]
+[Document21]
 DocumentPath=SWD.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -371,7 +405,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EKGYDFJJ
 
-[Document20]
+[Document22]
 DocumentPath=MIKROBUS.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -388,7 +422,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FFYVHPGV
 
-[Document21]
+[Document23]
 DocumentPath=RPIPICOW.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -405,7 +439,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OGDXABOT
 
-[Document22]
+[Document24]
 DocumentPath=PhotoDetectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -422,7 +456,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MXXLFJGN
 
-[Document23]
+[Document25]
 DocumentPath=DRV8833.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -439,7 +473,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XENRXURX
 
-[Document24]
+[Document26]
 DocumentPath=WS2812bDiode.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -456,7 +490,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BZYXTDGS
 
-[Document25]
+[Document27]
 DocumentPath=USBConn.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -473,7 +507,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IOSTFAKJ
 
-[Document26]
+[Document28]
 DocumentPath=Parts\USB4145-03-0070-C_REVA2\GCT_USB4145-03-0070-C_REVA2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -490,7 +524,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VORAKCPJ
 
-[Document27]
+[Document29]
 DocumentPath=Parts\USB4145-03-0070-C_REVA2\USB4145-03-0070-C_REVA2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
