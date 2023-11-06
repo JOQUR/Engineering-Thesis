@@ -30,6 +30,9 @@ set(STM32CUBEMX_GENERATED_FILES
         ../ZUMO-ROBOT/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c
         ../ZUMO-ROBOT/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c
         ../ZUMO-ROBOT/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c
+        ../ZUMO-ROBOT/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pcd.c
+        ../ZUMO-ROBOT/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pcd_ex.c
+        ../ZUMO-ROBOT/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_ll_usb.c
 
         ../ZUMO-ROBOT/Core/Inc/main.h
         ../ZUMO-ROBOT/Core/Inc/stm32g4xx_hal_conf.h
@@ -50,6 +53,14 @@ set(STM32CUBEMX_GENERATED_FILES
         ../ZUMO-ROBOT/Middlewares/Third_Party/FreeRTOS/Source/tasks.c
         ../ZUMO-ROBOT/Middlewares/Third_Party/FreeRTOS/Source/timers.c
         ../ZUMO-ROBOT/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+        ../ZUMO-ROBOT/USB_Device/App/usb_device.c
+        ../ZUMO-ROBOT/USB_Device/App/usbd_cdc_if.c
+        ../ZUMO-ROBOT/USB_Device/App/usbd_desc.c
+        ../ZUMO-ROBOT/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c
+        ../ZUMO-ROBOT/USB_Device/Target/usbd_conf.c
+        ../ZUMO-ROBOT/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.c
+        ../ZUMO-ROBOT/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c
+        ../ZUMO-ROBOT/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c
 
         ../ZUMO-ROBOT/startup_stm32g474xx.s)
 
@@ -71,8 +82,11 @@ target_include_directories(${EXECUTABLE} PRIVATE
         ../ZUMO-ROBOT/Middlewares/Third_Party/FreeRTOS/Source/Include
         ../ZUMO-ROBOT/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS
         ../ZUMO-ROBOT/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F
-        # ../ZUMO-ROBOT/USB_Device/App
-        # ../ZUMO-ROBOT/Middlewares/ST/STM32_USB_Device_Library/Core/Inc
+        ../ZUMO-ROBOT/USB_Device/App
+        ../ZUMO-ROBOT/Middlewares/ST/STM32_USB_Device_Library/Core/Inc
+        ../ZUMO-ROBOT/USB_Device/Target
+        ../ZUMO-ROBOT/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc
+        ../ZUMO-ROBOT/Middlewares/ST/STM32_USB_Device_Library/Core/Inc
         )
 
 target_compile_options(${EXECUTABLE} PRIVATE
