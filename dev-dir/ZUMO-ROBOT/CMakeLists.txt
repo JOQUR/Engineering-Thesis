@@ -71,6 +71,8 @@ target_include_directories(${EXECUTABLE} PRIVATE
         ../ZUMO-ROBOT/Middlewares/Third_Party/FreeRTOS/Source/Include
         ../ZUMO-ROBOT/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS
         ../ZUMO-ROBOT/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F
+        # ../ZUMO-ROBOT/USB_Device/App
+        # ../ZUMO-ROBOT/Middlewares/ST/STM32_USB_Device_Library/Core/Inc
         )
 
 target_compile_options(${EXECUTABLE} PRIVATE
